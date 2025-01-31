@@ -1,5 +1,7 @@
 #Radhe Radhe
 import demoji
 
+text=input("Enter you text with emojis:")
+output=demoji.findall(text)
 
-demoji.download_codes()
+print(output)
