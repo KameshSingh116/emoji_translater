@@ -13,5 +13,5 @@ while(choice=='y'):
                continue
          else:
                break
-         
-         
+
+#Just like this we can give any emoji as the imput and it will simpy provide us with the name of the emoji.
